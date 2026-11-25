@@ -175,7 +175,7 @@ src/
 
 ### Видалення
 
-![Після видалення](screenshots/14.png)
+![Після видалення](screenshots/0.png)
 
 ### LocalStorage
 
